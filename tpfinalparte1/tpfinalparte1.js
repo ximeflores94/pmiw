@@ -1,6 +1,8 @@
 //https://youtu.be/N41V2ecSblY
 //https://www.figma.com/proto/OHp7LgsdY8sRC9CFXvgHw8/Sin-t%C3%ADtulo?node-id=1-2&t=nKSr0FdThxWMnByY-1
 
+//profesor porfavor descomprimir la carpeta assets antes de iniciar el codigo
+
 let img = [];
 let png = [];
 let manga = [];
