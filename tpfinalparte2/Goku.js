@@ -6,7 +6,7 @@ class Goku {
     this.posy = 340;
     this.vely = 0; // velocidad en el eje y
     this.suelo = true; // para evitar que salte dos veces
-    this.vida = 10;
+    this.vida = 100;
     this.bala = [];
 
     //animación golpe
@@ -203,3 +203,4 @@ class Goku {
     }
   }
 }
+
