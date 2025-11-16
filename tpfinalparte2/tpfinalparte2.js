@@ -1,3 +1,5 @@
+//https://youtu.be/C0BJ60dtwco
+
 let objJuego;
 let img = [];
 let moro = [];
@@ -42,4 +44,5 @@ function keyPressed() {
 function mousePressed(){
   objJuego.estados();
 }
+
 
