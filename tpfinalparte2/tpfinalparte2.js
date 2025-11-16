@@ -19,7 +19,7 @@ function preload() {
   }
   
   inicio =  loadImage("assets/Pantallas/inicio.jpg");
-  instrucciones =  loadImage("assets/Pantallas/instrucciones.jpg");
+  instrucciones =  loadImage("assets/Pantallas/instruccion.jpg");
   
   acme = loadFont("fuente/acmeBold.ttf");
   sjj = loadFont("fuente/Saiyan-Sans.ttf");
@@ -42,3 +42,4 @@ function keyPressed() {
 function mousePressed(){
   objJuego.estados();
 }
+
